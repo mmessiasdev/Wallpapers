@@ -10,3 +10,26 @@
 
 
 ![116357bf-ec0d-43cd-8830-efb540c686b8](https://user-images.githubusercontent.com/78608382/233136272-f3b0f067-8b2a-4a41-ae24-4c1fe558b5f5.png)
+
+
+# Gifs
+![HomePage Portfólio](https://user-images.githubusercontent.com/78608382/234104489-a655d3a7-3549-4d3c-a831-70da93fd6946.gif)
+![Projects Portfolio](https://user-images.githubusercontent.com/78608382/234104505-955bc4cb-d30c-4a59-8b96-d4edd5fadb93.gif)
+![Skills Portílio](https://user-images.githubusercontent.com/78608382/234104529-23fe8d92-123c-4598-ace8-9851ac72a24c.gif)
+
+
+
+
+# Prints
+
+![Captura de tela 2023-04-24 172938](https://user-images.githubusercontent.com/78608382/234109946-073a624f-51b2-4cd4-9596-99317ec8cf94.png)
+![Captura de tela 2023-04-24 173011](https://user-images.githubusercontent.com/78608382/234109956-e253ad0c-5239-4669-b496-6ee69f9b0089.png)
+![Captura de tela 2023-04-24 172818](https://user-images.githubusercontent.com/78608382/234109961-9f57b393-3957-451f-bd22-e9a62befd35f.png)
+![Captura de tela 2023-04-24 172851](https://user-images.githubusercontent.com/78608382/234109969-6e54b617-de57-4928-a19f-3406194976e6.png)
+![Captura de tela 2023-04-24 173342](https://user-images.githubusercontent.com/78608382/234110319-d955c74e-a0a3-41bd-b60b-efc3e8decba2.png)
+
+
+# Eu
+
+![1649791599713 4](https://user-images.githubusercontent.com/78608382/234113642-3e6a2a32-d405-4895-b05d-57a1d5d7b9fe.png)
+
