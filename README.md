@@ -1,5 +1,11 @@
 # Wallpapers
 
+
+![CrudeeLogo](https://github.com/mmessiasdev/ImagesDeploy/assets/78608382/1f157586-f34c-4b89-8a26-4c5e70e94084)
+
+
+![iPhone 14 - 1](https://github.com/mmessiasdev/ImagesDeploy/assets/78608382/aff931bd-57d6-49dc-a6e5-32a7209a84b4)
+
 ![Frame 23](https://github.com/mmessiasdev/ImagesDeploy/assets/78608382/fe16a8f0-f9df-4904-bdc2-a5b0e09581a4)
 ![Frame 24](https://github.com/mmessiasdev/ImagesDeploy/assets/78608382/fee51e5b-fc06-4dbd-80dd-2cc371042b6e)
 ![Frame 25](https://github.com/mmessiasdev/ImagesDeploy/assets/78608382/4b16b356-71cf-472e-8d42-45db32e4c478)
