@@ -1,3 +1,17 @@
+
+![Banner 3](https://github.com/user-attachments/assets/fa4df3ad-94c1-433b-8871-39e49caed095)
+
+
+![Banner 2](https://github.com/user-attachments/assets/7837bced-1897-40ca-900e-2c7f5e83c4f9)
+
+
+![Banner 1](https://github.com/user-attachments/assets/c899f689-9111-419e-80b3-464cd6ab3dda)
+
+![Organograma Atendimento-1](https://github.com/user-attachments/assets/77de5aad-942e-4ab2-9ff9-96a2588a74c3)
+
+![Fluxo de atendimento-1](https://github.com/user-attachments/assets/dd66d886-5237-4938-8ec8-128f5ccf205b)
+
+
 # Wallpapers
 ![ProductPage](https://github.com/user-attachments/assets/7d4a82da-938a-4d60-a582-e5cafdbfae22)
 ![Wallet - Saldo](https://github.com/user-attachments/assets/fea49af7-be0c-4550-bff9-dbd6ca223862)
